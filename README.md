@@ -20,6 +20,7 @@ This would be a new line
 ![cakePicture](download.jpg)
 
 #  At this point we added the responisve file  versus the full site.  
+
 ## The first comparison was Reed.co.uk  
 
 >>Reed.co.uk
@@ -33,6 +34,7 @@ As you can see the comparison shows that
  - the background is left plain for quicker loading and ease of viewing as the screen is smaller and doesnt need to be busy
 
 
+
 ## Our second comparison was the BBC Radio 1 Website  
 >>BBC Radio 1
 The site is viewable at [bbc.co.uk/radio1/](http://bbc.co.uk/radio1)  
@@ -43,6 +45,7 @@ As you can see the comparison shows that
  - Images are reduced to only those relevant to current song and logo
  - menu is minimal with only popular ones and a hamburger menu for more menu items.
  - the background is no longer an image but a vector color, 
+
 
 ## Finally the BBC News Website  
 >>BBC News
