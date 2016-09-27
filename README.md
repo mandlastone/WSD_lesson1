@@ -15,6 +15,6 @@ This would be a new line
 ``` html
 <h1>Hello</h1>
 <span>you save by comitting.</span>
-![cakePicture](download.jpg)
 
 ```
+![cakePicture](download.jpg)
