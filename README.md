@@ -24,9 +24,10 @@ This would be a new line
 
 For the first comparison we used [reed.co.uk](http://reed.co.uk)  
 
-```html
-<h1>Reed.co.uk</h1>
-```
+
+
+>>Reed.co.uk
+
 ![Reed website img](reed_site.png)  
 As you can see the comparison shows that 
  - When the responsive site is show, content is reduced to display most relevant details first.  
