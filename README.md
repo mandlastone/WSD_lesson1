@@ -12,7 +12,7 @@ This would be a new line
 
 <sub>Some random fact here</sub>
 
-''' html
+``` html
 <h1>Hello</h1>
 <span>you save by comitting.</span>
-'''
+```
