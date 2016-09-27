@@ -22,11 +22,8 @@ This would be a new line
 #  At this point we added the responisve file  versus the full site.  
 ## The first comparison was Reed.co.uk  
 
-For the first comparison we used [reed.co.uk](http://reed.co.uk)  
-
-
-
 >>Reed.co.uk
+For the first comparison we used [reed.co.uk](http://reed.co.uk)  
 
 ![Reed website img](reed_site.png)  
 As you can see the comparison shows that 
