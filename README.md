@@ -18,3 +18,18 @@ This would be a new line
 
 ```
 ![cakePicture](download.jpg)
+
+#  At this point we added the responisve file  versus the full site.  
+## The first comparison was Reed.co.uk  
+
+For the first comparison we used [reed.co.uk](http://reed.co.uk)  
+
+```html
+<h1>Reed.co.uk</h1>
+```
+![Reed website img](reed_site.png)  
+As you can see the comparison shows that 
+ - When the responsive site is show, content is reduced to display most relevant details first.  
+ - Images are reduced in size so as to use up less bandwidth
+ - Images are smaller for quicker loading.
+ - the background is left plain for quicker loading and ease of viewing as the screen is smaller and doesnt need to be busy
